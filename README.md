@@ -1,7 +1,22 @@
-# Financial Data Reconciliation Framework
+# SQL Reconciliation and Validation Process
 
-A SQL-based reconciliation system that compares source transaction records against reported financial outputs, identifies discrepancies, and surfaces variance drivers for finance and engineering teams.
+A SQL-based reconciliation and validation framework that compares source transaction records against downstream financial reporting outputs to detect mismatches, missing records, and variance drivers.
 
+The framework simulates real-world financial reporting validation workflows used by finance and engineering teams to maintain reporting accuracy and audit readiness.
+
+
+---
+
+## Resume Project Reference
+
+This repository represents the **SQL Reconciliation and Validation Process** referenced in my professional experience building financial data validation systems.
+
+The project demonstrates:
+
+• Multi-layer SQL reconciliation logic  
+• Automated validation checkpoints across reporting layers  
+• Break investigation workflows for finance teams  
+• Variance analysis between source and reporting datasets
 ---
 
 ## Problem Statement
