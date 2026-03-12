@@ -71,6 +71,8 @@ sql-reconciliation-framework
 │
 ├── reconciliation.sql   ← Full reconciliation logic (5 CTEs + final output)
 ├── sample_data.csv      ← Sample transaction dataset
+├── tableau_dashboard.md ← Dashboard design specification
+├── BRD_SQL_Reconciliation_Framework.docx ← Business Requirements Document
 └── README.md
 ```
 
