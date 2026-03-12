@@ -6,19 +6,6 @@ The framework simulates real-world financial reporting validation workflows used
 
 ---
 
-## Resume Project Reference
-
-This repository represents the **SQL Reconciliation Framework** referenced in my professional experience building financial data validation systems.
-
-The project demonstrates:
-
-• Multi-layer SQL reconciliation logic
-• Automated validation checkpoints across reporting layers
-• Break investigation workflows for finance teams
-• Variance analysis between source and reporting datasets
-
----
-
 ## Business Problem
 
 In multi-layer financial reporting systems, data flows through several stages:
@@ -130,4 +117,4 @@ LinkedIn
 https://linkedin.com/in/yash-sonawane25
 
 Portfolio
-https://portfolio-delta-silk-82.vercel.app
+https://yashsonawane.vercel.app
