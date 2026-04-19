@@ -126,8 +126,4 @@ In real-world reporting systems, similar validation processes have delivered:
 **Yash Sonawane**
 Business Systems Analyst — Financial Data & Reporting
 
-LinkedIn
-https://linkedin.com/in/yash-sonawane25
-
-Portfolio
-https://portfolio-delta-silk-82.vercel.app
+[Portfolio](https://yashsonawane.vercel.app) · [LinkedIn](https://linkedin.com/in/yash-sonawane25)
